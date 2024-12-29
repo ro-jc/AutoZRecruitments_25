@@ -1,4 +1,4 @@
-# TurtleBot3 Obstacle Avoidance
+# Turtlebot3 Obstacle Avoidance
 
 ## What you’ll learn:
 
