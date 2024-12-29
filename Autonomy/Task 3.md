@@ -1,4 +1,4 @@
-# Task 3: Controlling TurtleBot3
+# TurtleBot3 Obstacle Avoidance
 
 ## What you’ll learn:
 
