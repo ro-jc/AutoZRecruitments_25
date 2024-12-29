@@ -8,9 +8,8 @@
 
 ## Task
 
-The objective of this task is to spawn the turtlebot3 model on the turtlebot3 world in gazebo and simply keep it
-running forward for as long as the simulation is running while it avoids any obstacles or walls that come up in it's
-path by turning the other way.
+The objective of this task is to write a ROS node to run turtlebot3 in the turtlebot3_world in gazebo while avoiding
+any obstacles or walls that come up in its path. Simple obstacle avoidance by turning in the opposite direction will do.
 
 ## Deliverables
 
